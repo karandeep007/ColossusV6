@@ -1,0 +1,14 @@
+HTTrack3.48-21+htsswf+htsjava launched on Sat, 09 Jul 2016 17:48:08 at http://demos2.crazycafe.net/inviting/vershions +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demos2.crazycafe.net/inviting/vershions -O1 "G:\Redrock\College\Website team Amitech'16\Templetes\ColV6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:49:56	Error: 	"Not Found" (404) at link demos2.crazycafe.net/inviting/vershions/img/img-icons/loading2.gif (from demos2.crazycafe.net/inviting/vershions/css/responsive.css)
+17:49:56	Error: 	"Not Found" (404) at link demos2.crazycafe.net/inviting/vershions/Popover requires tooltip.js (from demos2.crazycafe.net/inviting/vershions/js/bootstrap.min.js)
+17:49:56	Error: 	"Not Found" (404) at link demos2.crazycafe.net/inviting/vershions/css/owl.video.play.png (from demos2.crazycafe.net/inviting/vershions/css/owl.carousel.css)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 48 seconds : 102 links scanned, 98 files written (3276594 bytes overall) [3075951 bytes received at 28481 bytes/sec], 276711 bytes transferred using HTTP compression in 15 files, ratio 17%, 10.3 requests per connection
+(3 errors, 0 warnings, 0 messages)
